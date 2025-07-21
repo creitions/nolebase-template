@@ -3,18 +3,18 @@ layout: home
 sidebar: false
 
 title: 一社区
-titleTemplate: 记录初中回忆，知识和瞎想的地方
+titleTemplate: 记录一切回忆，知识和瞎想的地方
 
 hero:
   name: creitions
-  text: 记录初中回忆，知识和瞎想的地方
-  tagline: 一个初中牲的小家😜
+  text: 记录一切回忆，知识和瞎想的地方
+  tagline: 一个高中牲的小家😜/n 联系方式：b站：creitions
   image:
     src: /logo.svg
     alt: Vitest
   actions:
     - theme: brand
-      text: 小社区
+      text: 注意事项
       link: /笔记/index
     - theme: alt
       text: 关注 Bilibili 上的我
