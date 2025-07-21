@@ -2,7 +2,7 @@
 layout: home
 sidebar: false
 
-title: 思源之家
+title: 一社区
 titleTemplate: 记录初中回忆，知识和瞎想的地方
 
 hero:
