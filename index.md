@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: 一社区
+title: 一小窝
 titleTemplate: 记录一切回忆，知识和瞎想的地方
 
 hero:
   name: creitions
   text: 记录一切回忆，知识和瞎想的地方
-  tagline: 一个高中牲的小家😜（开发中）
+  tagline: 一个高中牲的小窝😜（开发中）
   image:
     src: /logo.svg
     alt: Vitest
@@ -21,7 +21,7 @@ hero:
       link: https://b23.tv/NqK0Awv
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/creitions
+      link: https://github.com/creitions/nolebase-template
 
 features:
   - title: 多样的主题和天马行空的内容
@@ -31,7 +31,7 @@ features:
     details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
     icon: 📃
   - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们小社区的页面，提供了简单易用的主题。
+    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们一小窝的页面，提供了简单易用的主题。
     icon: 🚀
   - title: 以 Nólëbase 为模版
     details: 使用 Nólëbase 为开发模版，使界面简洁易用。
