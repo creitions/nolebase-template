@@ -1,1 +1,1 @@
-本仓库由[Nólëbase](https://github.com/nolebase/nolebase)为模版修改。
+本仓库由[Nólëbase](https://github.com/Jackiexiao/nolebase-template)为模版修改。
