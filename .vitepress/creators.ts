@@ -1,5 +1,5 @@
 export interface SocialEntry {
-  type: 'github' | 'twitter' | 'email' | 'bilibili' |
+  type: 'github' | 'twitter' | 'email' |
   icon: string
   link: string
 }
@@ -27,7 +27,6 @@ export const creators: Creator[] = [
     desc: '维护者，专注于一小窝静态页面维护',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/creitions' },
-      { type: 'bilibili', icon: 'bilibili', link: 'https://b23.tv/NqK0Awv' },
     ],
     nameAliases: ['creitions', 'creition',],
     emailAliases: ['abc13839467626@outlook.com'],
