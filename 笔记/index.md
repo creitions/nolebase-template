@@ -27,3 +27,7 @@ comment: false
 ### 联系方式
 
 假如你要是想发个东西，就往我的邮箱里面发，或者在[github](https://github.com/creitions/nolebase-template)提交
+
+```邮箱
+creitions@163.com
+```
