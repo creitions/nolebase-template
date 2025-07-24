@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 注意事项
 
 欢迎来到creitions的 [一小窝](https://creitions.netlify.app/)，这里是注意事项
