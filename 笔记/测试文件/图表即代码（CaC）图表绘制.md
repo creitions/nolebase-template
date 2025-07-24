@@ -1,6 +1,7 @@
 ---
 tags:
   - 知识领域/文档工程
+comment: false
 ---
 # 图表即代码（CaC）图表绘制
 
