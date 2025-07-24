@@ -134,7 +134,6 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
-      { icon: 'discord', link: discordLink },
     ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
@@ -209,7 +208,8 @@ export default defineConfig({
     },
     nav: [
       { text: '主页', link: '/' },
-      { text: '笔记', link: '/笔记/' },
+      { text: '注意事项', link: '/笔记/' },
+      { text: '窝', link: '/笔记/目录'}
       { text: '最近更新', link: '/toc' },
     ],
     sidebar,
